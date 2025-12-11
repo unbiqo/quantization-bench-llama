@@ -19,7 +19,7 @@ The goal of this project is to prototype a **mini benchmark harness** that compa
   - datasets
   - bitsandbytes
   - auto-gptq
-  - 
+  
 - **Memory (conceptual)**: via bit‑width and external docs in the report.
 - **Energy (discussed in paper)**: reasoned from memory and performance, not directly measured.
 
