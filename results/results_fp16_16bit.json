@@ -1,0 +1,12 @@
+{
+  "model_id": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "backend": "fp16",
+  "bits": 16,
+  "device": "cpu",
+  "max_new_tokens": 32,
+  "max_samples": 4,
+  "avg_ttft_ms": 2673.573399999441,
+  "avg_latency_ms": 16552.96929999895,
+  "throughput_tokens_per_s": 1.9331879024267888,
+  "perplexity": 10.564530372619629
+}
